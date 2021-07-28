@@ -173,7 +173,7 @@
         "symbol": "PRTCLE",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/scoreboard/master/assets/token.png"
+        "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/docs/master/static/img/SHELogo.png"
     },
     {
         "name": "Wrapped XDAI",
@@ -1494,5 +1494,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/dappnode_32.png"
+    },
+    {
+      "name": "SHE Sweatpants",
+      "address": "0x0dae13fae64180d3cadcad22329a4abcaef15ca6",
+      "symbol": "PANTS",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/unisocks/master/src/components/Gallery/pantsToken.png"
     }
 ]
